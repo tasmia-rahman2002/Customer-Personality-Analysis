@@ -1,5 +1,5 @@
 # Customer-Personality-Analysis
-##Project Description##
+Project Description
 
 This project analyzes a marketing campaign dataset to understand customer behavior and predict responses to marketing campaigns. It involves data loading, preprocessing, exploratory data analysis (EDA), and applying machine learning models for prediction.
 
